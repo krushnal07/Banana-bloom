@@ -18,7 +18,7 @@ const bananaQualities = [
     tag: "Sweet & Soft",
   },
   {
-    image: "",
+    image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bananas_white_background.jpg",
     title: "Overripe Banana",
     description:
       "Brown-spotted or black skin, mushy texture. Best used in banana bread, pancakes, or composting.",
